@@ -1,0 +1,4 @@
+.container {
+    grid-area: chart;
+    align-items: center;
+}
