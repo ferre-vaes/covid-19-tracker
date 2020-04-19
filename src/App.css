@@ -22,6 +22,10 @@ and (max-width: 450px) {
       'chart'
       'chart';
   }
+
+  .logo {
+    margin-top: 0;
+  }
 }
 
 @media screen
